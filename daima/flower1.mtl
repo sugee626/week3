@@ -1,0 +1,9 @@
+newmtl Woman_skin:Woman_skin:Woman_skin:S_Hero027newSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Woman.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
